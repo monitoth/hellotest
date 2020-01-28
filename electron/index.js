@@ -4,6 +4,13 @@ const { CapacitorSplashScreen, configCapacitor } = require('@capacitor/electron'
 
 const path = require('path');
 
+// const { autoUpdater } = 
+require('update-electron-app')({
+  repo: 'monitoth/hellotest'
+  // updateInterval: '1 hour',
+  // logger: require('electron-log')
+})
+
 // Place holders for our windows so they don't get garbage collected.
 let mainWindow = null;
 

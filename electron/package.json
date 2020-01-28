@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-app",
-  "version": "1.0.0",
+  "name": "hellotest-app",
+  "version": "0.0.6",
   "description": "An Amazing Capacitor App",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "@capacitor/electron": "^1.4.0",
-    "electron-is-dev": "^1.1.0"
+    "electron-is-dev": "^1.1.0",
+    "update-electron-app": "^1.5.0"
   },
   "devDependencies": {
     "electron": "^7.0.0"
