@@ -18,7 +18,7 @@
     "@angular/forms": "~8.1.2",
     "@angular/platform-browser": "~8.1.2",
     "@angular/platform-browser-dynamic": "~8.1.2",
-    "@angular/pwa": "^0.803.23",
+    "@angular/pwa": "^0.803.29",
     "@angular/router": "~8.1.2",
     "@angular/service-worker": "~8.1.2",
     "@capacitor/android": "^1.4.0",
